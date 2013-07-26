@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * TODO 
+ */
+
+]]></content>
+	<tabTrigger>com-long</tabTrigger>
+	<description>Idiomatic CSS - Longer Descriptor Comment</description>
+</snippet>
