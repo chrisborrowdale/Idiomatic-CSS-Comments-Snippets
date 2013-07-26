@@ -5,6 +5,6 @@
  */
 
 ]]></content>
-	<tabTrigger>com-long</tabTrigger>
-	<description>Idiomatic CSS - Longer Descriptor Comment</description>
+	<tabTrigger>com-todo</tabTrigger>
+	<description>Idiomatic CSS - Todo Comment</description>
 </snippet>
