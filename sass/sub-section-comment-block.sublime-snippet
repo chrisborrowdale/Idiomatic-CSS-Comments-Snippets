@@ -1,12 +1,13 @@
 <snippet>
 	<content><![CDATA[
-/* 
-   ${1}
-   ========================================================================== */
+//
+// $1
+// ==========================================================================
 
-${2}
-
+$0
 ]]></content>
 	<tabTrigger>com-sub</tabTrigger>
 	<description>Idiomatic CSS - Sub-Section Comment Block</description>
+	<scope>source.scss</scope>
 </snippet>
+

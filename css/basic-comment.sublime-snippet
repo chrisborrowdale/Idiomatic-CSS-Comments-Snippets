@@ -1,8 +1,9 @@
 <snippet>
 	<content><![CDATA[
-/* ${1} */
-
+/* $1 */
+$0
 ]]></content>
 	<tabTrigger>com-basic</tabTrigger>
 	<description>Idiomatic CSS - Basic Comment</description>
+	<scope>source.css</scope>
 </snippet>
