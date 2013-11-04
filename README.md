@@ -52,7 +52,7 @@ There are several shortcuts for the different comment blocks.
 	 *   indented by 2 spaces.
 	 */
 
-   'com-long' + tab
+  'com-long' + tab
 
 ### Todo List Comment
 
@@ -64,4 +64,4 @@ There are several shortcuts for the different comment blocks.
 	 *
 	 */
 
-   'com-todo' + tab
+  'com-todo' + tab
