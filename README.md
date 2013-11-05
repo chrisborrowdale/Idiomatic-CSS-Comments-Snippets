@@ -15,7 +15,9 @@ There are several shortcuts for the different comment blocks.
 
 	/* This is a basic comment */
 
-	'com-basic' + tab
+#### Basic Comment Usage
+
+Enter the shortcut `com-basic` followed by the `tab` key
 
 ### Section Comment
 
@@ -23,7 +25,9 @@ There are several shortcuts for the different comment blocks.
    	   This is a Section Comment
        ========================================================================== */
 
-	'com-section' + tab
+#### Section Comment Usage
+
+Enter the shortcut `com-section` followed by the `tab` key
 
 ### Sub-Section Comment
 
@@ -31,7 +35,9 @@ There are several shortcuts for the different comment blocks.
    	   This is a Sub-Section Comment
        ========================================================================== */
 
-	'com-sub' + tab
+#### Sub Section Comment Usage
+
+Enter the shortcut `com-sub` followed by the `tab` key
 
 ### Long Comment
 
@@ -52,7 +58,9 @@ There are several shortcuts for the different comment blocks.
 	 *   indented by 2 spaces.
 	 */
 
-  'com-long' + tab
+#### Long Comment Usage
+
+Enter the shortcut `com-long` followed by the `tab` key
 
 ### Todo List Comment
 
@@ -64,4 +72,6 @@ There are several shortcuts for the different comment blocks.
 	 *
 	 */
 
-  'com-todo' + tab
+#### Todo List Comment Usage
+
+Enter the shortcut `com-todo` followed by the `tab` key
