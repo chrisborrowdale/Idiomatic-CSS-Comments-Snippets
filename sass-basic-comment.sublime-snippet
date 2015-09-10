@@ -3,6 +3,6 @@
 // ${1}
 
 ]]></content>
-	<tabTrigger>scom-basic</tabTrigger>
+	<tabTrigger>com-sass-basic</tabTrigger>
 	<description>Idiomatic CSS - (Sass) Basic Comment</description>
 </snippet>

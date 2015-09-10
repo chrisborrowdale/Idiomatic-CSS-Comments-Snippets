@@ -8,6 +8,6 @@
 ${2}
 
 ]]></content>
-	<tabTrigger>scom-todo</tabTrigger>
+	<tabTrigger>com-sass-todo</tabTrigger>
 	<description>Idiomatic CSS - (Sass) Todo Comment</description>
 </snippet>
