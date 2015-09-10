@@ -32,7 +32,7 @@ Enter the shortcut `com-section` followed by the `tab` key
 ### Sub-Section Comment
 
   /*
-
+		 This is a sub-section comment
      ========================================================================== */
 
 #### Sub Section Comment Usage
