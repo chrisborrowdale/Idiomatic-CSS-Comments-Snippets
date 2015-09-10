@@ -31,9 +31,9 @@ Enter the shortcut `com-section` followed by the `tab` key
 
 ### Sub-Section Comment
 
-	/*
+  /*
 
-           ========================================================================== */
+     ========================================================================== */
 
 #### Sub Section Comment Usage
 
