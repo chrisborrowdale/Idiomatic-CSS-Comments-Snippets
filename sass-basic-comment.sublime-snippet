@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+// ${1}
+
+]]></content>
+	<tabTrigger>com-sass-basic</tabTrigger>
+	<description>Idiomatic CSS - (Sass) Basic Comment</description>
+</snippet>

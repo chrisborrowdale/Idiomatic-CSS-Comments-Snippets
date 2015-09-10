@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+//
+// ${1}
+//
+
+]]></content>
+	<tabTrigger>com-sass-long</tabTrigger>
+	<description>Idiomatic CSS - (Sass) Longer Descriptor Comment</description>
+</snippet>

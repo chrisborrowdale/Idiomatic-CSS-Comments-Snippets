@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+//
+// TODO 
+// ${1}
+//
+
+${2}
+
+]]></content>
+	<tabTrigger>com-sass-todo</tabTrigger>
+	<description>Idiomatic CSS - (Sass) Todo Comment</description>
+</snippet>
