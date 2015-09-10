@@ -1,7 +1,7 @@
 Idiomatic CSS Comments for Sublime Text
 =============================================
 
-Idiomatic CSS style comments for Sublime Text.  Comment format based on [Idiomatic (https://github.com/necolas/idiomatic-css) CSS] by [@necolas](https://github.com/necolas).
+Idiomatic CSS style comments for Sublime Text.  Comment format based on [Idiomatic CSS](https://github.com/necolas/idiomatic-css) by [@necolas](https://github.com/necolas).
 
 ## Install
 
