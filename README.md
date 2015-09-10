@@ -68,7 +68,7 @@ Enter the shortcut `com-long` followed by the `tab` key
 
 ### Todo List Comment
 
-``` html
+``` css
 /**
  * TODO:
  *
