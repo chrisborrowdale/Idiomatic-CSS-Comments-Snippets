@@ -12,14 +12,15 @@ You can install via the Sublime Text Package Control (http://wbond.net/sublime_p
 There are several shortcuts for the different comment blocks.
 
 ### Basic Comment
+Enter the shortcut `com-basic` followed by the `tab` key
+
 ``` css
 /* This is a basic comment */
 ```
-#### Basic Comment Usage
-
-Enter the shortcut `com-basic` followed by the `tab` key
 
 ### Section Comment
+
+Enter the shortcut `com-section` followed by the `tab` key
 
 ``` css
 /* ==========================================================================
@@ -27,21 +28,19 @@ Enter the shortcut `com-basic` followed by the `tab` key
    ========================================================================== */
 ```
 
-#### Section Comment Usage
-
-Enter the shortcut `com-section` followed by the `tab` key
-
 ### Sub-Section Comment
+
+Enter the shortcut `com-sub` followed by the `tab` key
+
 ``` css
 /*
    This is a sub-section comment
    ========================================================================== */
 ```
-#### Sub Section Comment Usage
-
-Enter the shortcut `com-sub` followed by the `tab` key
 
 ### Long Comment
+
+Enter the shortcut `com-long` followed by the `tab` key
 
 ``` css
 /**
@@ -62,11 +61,9 @@ Enter the shortcut `com-sub` followed by the `tab` key
  */
 ```
 
-#### Long Comment Usage
-
-Enter the shortcut `com-long` followed by the `tab` key
-
 ### Todo List Comment
+
+Enter the shortcut `com-todo` followed by the `tab` key
 
 ``` css
 /**
@@ -77,7 +74,3 @@ Enter the shortcut `com-long` followed by the `tab` key
  *
  */
 ```
-
-#### Todo List Comment Usage
-
-Enter the shortcut `com-todo` followed by the `tab` key
