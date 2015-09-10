@@ -3,6 +3,8 @@ Idiomatic CSS Comments for Sublime Text
 
 Idiomatic CSS style comments for Sublime Text.  Comment format based on [Idiomatic CSS](https://github.com/necolas/idiomatic-css) by [@necolas](https://github.com/necolas).
 
+Thanks to [@scottyeck](https://github.com/scottyeck) there are [Sass style comments](###Sass-style Comments) also available.
+
 ## Install
 
 You can install via the Sublime Text Package Control (http://wbond.net/sublime_packages/package_control) and search for Idiomatic CSS Comments.
@@ -62,7 +64,7 @@ Enter the shortcut `com-long` followed by the `tab` key
 ```
 
 ### Todo List Comment
-Enter the shortcut `com-todo` followed by the `tab` key	
+Enter the shortcut `com-todo` followed by the `tab` key
 
 ``` css
 /**
@@ -75,7 +77,7 @@ Enter the shortcut `com-todo` followed by the `tab` key
 
 ---
 
-## Sass-style Comments
+### Sass-style Comments
 
 Each of the comment-types listed above can be rendered in the form of a Sass-style comment using the shortcuts listed below.
 
