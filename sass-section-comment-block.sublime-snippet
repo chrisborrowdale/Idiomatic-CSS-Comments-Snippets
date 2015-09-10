@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+// ==========================================================================
+// ${1}
+// ==========================================================================
+
+${2}
+
+]]></content>
+	<tabTrigger>scom-section</tabTrigger>
+	<description>Idiomatic CSS - (Sass) Section Comment Block</description>
+</snippet>
