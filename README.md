@@ -81,10 +81,10 @@ Enter the shortcut `com-todo` followed by the `tab` key
 
 Each of the comment-types listed above can be rendered in the form of a Sass-style comment using the shortcuts listed below.
 
-* Basic Comment (Sass) - `scom-basic`
-* Section Comment (Sass) - `scom-section`
-* Sub-Section Comment (Sass) - `scom-sub`
-* Long Comment (Sass) - `scom-long`
-* Todo List Comment (Sass) - `scom-todo`
+* Basic Comment (Sass) - `com-sass-basic`
+* Section Comment (Sass) - `com-sass-section`
+* Sub-Section Comment (Sass) - `com-sass-sub`
+* Long Comment (Sass) - `com-sass-long`
+* Todo List Comment (Sass) - `com-sass-todo`
 
 As before, each shortcut should be followed by the `tab` key.
