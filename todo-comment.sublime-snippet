@@ -1,7 +1,9 @@
 <snippet>
 	<content><![CDATA[
 /**
- * TODO 
+ * TODO
+ *
+ * => ${1}
  */
 
 ]]></content>
